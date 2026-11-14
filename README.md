@@ -33,6 +33,10 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
 ![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/Event%20Bus-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SSM Parameter Store](https://img.shields.io/badge/SSM%20Parameter%20Store-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Inspector](https://img.shields.io/badge/AWS%20Inspector-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 **Infrastructure & DevOps**
