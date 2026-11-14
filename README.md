@@ -77,7 +77,7 @@
 
 ## 🚀 Key Projects
 
-### 🔹 Beyond Supply: Serverless Partner Customer Onboarding
+### 🔹 Serverless Partner Customer Onboarding
 A serverless, API-driven onboarding platform that processes customer data from web forms and CSV/Excel files. It validates customer information, generates unique partner-specific reference IDs, authenticates APIs with Cognito, stores data in DynamoDB, and routes validated data to Oracle databases for multiple business partners.
 
 - Built Lambda-based REST API backends with API Gateway triggers
@@ -89,7 +89,7 @@ A serverless, API-driven onboarding platform that processes customer data from w
 
 **Tech:** `Lambda` `API Gateway` `Cognito` `SSM` `SNS` `DynamoDB` `S3` `Inspector` `Terraform` `GitHub` `Linux`
 
-### 🔹 Spire: EC2 Infrastructure Provisioning & Configuration
+### 🔹 EC2 Infrastructure Provisioning & Configuration
 Terraform-managed AWS infrastructure covering EC2 provisioning, load balancers, and target groups for high availability and traffic distribution, in a secure AWS environment.
 
 - Configured EC2 instances for application hosting
