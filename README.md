@@ -18,7 +18,6 @@
 - 🏗️ I manage cloud infrastructure with **Terraform** and ship through **GitHub Actions CI/CD**
 - 🛠️ Comfortable with release activities and production troubleshooting alongside cross-functional teams
 - ⚡ Domain experience: **Energy & Utilities** (enterprise client)
-- 📍 Based in Visakhapatnam, India
 
 ---
 
@@ -115,14 +114,6 @@ DADI Institute of Engineering and Technology, Visakhapatnam | Graduated 2023
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sravyavilluri&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravyavilluri&layout=compact&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
