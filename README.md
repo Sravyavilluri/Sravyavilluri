@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sravya Sri Villuri 👋</h1>
 
-<h3 align="center">AWS Cloud Engineer | Serverless & REST APIs | Infrastructure as Code</h3>
+<h3 align="center">AWS Cloud Engineer | Serverless & REST APIs & Server | Infrastructure as Code</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect" />
